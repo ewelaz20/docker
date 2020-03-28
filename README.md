@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/ewelinazz/zad1
+https://hub.docker.com/repository/docker/ewelinazz/zadanie1
